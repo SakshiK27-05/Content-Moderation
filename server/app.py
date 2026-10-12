@@ -2,6 +2,7 @@ import asyncio
 import json
 import sys
 import threading
+import pandas
 from pathlib import Path
 from typing import Optional
 
